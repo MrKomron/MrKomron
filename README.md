@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working on my projects
-- 🌱 I’m learning IT
-
+- 💻👨‍💻 I’m currently working on my projects
+- 🏫 I’m learning IT
 
 
