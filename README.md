@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Komron Vosidov</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **Blue Light**
 
 - 👨‍💻 All of my projects are available at [https://komronvosidov.be/](https://komronvosidov.be/)
