@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkomron&label=Profile%20views&color=0e75b6&style=flat" alt="mrkomron" /> </p>
 
-- 🔭 I’m currently working on **Blue Light**
 
 - 👨‍💻 All of my projects are available at [https://komronvosidov.be/](https://komronvosidov.be/)
 
