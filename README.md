@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://komronvosidov.be/](https://komronvosidov.be/)
 
-- 💬 Ask me about **Program developing, UX\UI design**
+- 💬 Ask me about **Coding, UX\UI design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
