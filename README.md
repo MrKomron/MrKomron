@@ -8,17 +8,12 @@ I'm a Full Stack Developer who loves building user-centric web applications and 
 ### 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-... [Your Technologies Here]
 
-### 🔥 Highlighted Projects
-- **[Project Name]**: A brief description. [Link if available](#)
-- **[Project Name]**: A brief description. [Link if available](#)
 
 ### 💬 Let's Connect
 - LinkedIn: [Komron Vosidov](https://www.linkedin.com/in/komron-vosidov/)
 - Website: [komronvosidov.be](https://komronvosidov.be/)
-- Email: [Your Email]
 
-### 📈 GitHub Stats
-![Komron's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkomron&show_icons=true&theme=radical)
+
+
 
